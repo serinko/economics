@@ -5,3 +5,8 @@ As we understand how the formula of PnL works, we will try to put it in practice
 Let's try to put it in practice: 
 
 1 - Have a look on the potfolio, there is a coin called $COPE. For the practice - imagie that we have decided that we will hold this coin until it has a value of $10000. What is the exit price on the market, we are looking for to exit on (or set a take profit SELL order)?
+
+2 - There are news that Turkey is invading Greece and however the EU and NATO do not really react as "expected", they announce a lot of economical sanctions. We concluded $TRYB will fall because of that. 
+Entering - opening a SHORT position at 0.0715 price - for $1500. We decided that we will close 50% of the position when $TRYB drops 40% and the rest, when it drops 50% from our entry. What will be our profit?
+
+3 - Actually I made a mistake in the excercise number 1. It is slightly bit complicated. We are looking to make 10000, but in EURO, in CASH. The market though is only in COPE/USD. To get it in cash, we will use an ATM to have it not connected to our bank accounts. an ATM takes 3.5% and allows only 900E per transaction. Each transaction charges 10E on top of the 3.5%. If my aim is to have 10000E in cash in the end of this investment, what is the price to exit the COPE/USD market. Giving the anticipation that the ratio of USD/EUR stays the same as it's today.
