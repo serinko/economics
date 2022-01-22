@@ -32,7 +32,8 @@ Formula to calculate profit is reversed
 PnL = n-(Pex/Pen*n)
  
 Example. Kawa borrowed sld his Bitcoin in the profit at Bitcoin price $60000 and had $1500 in cash. 
-He held onto it as the Bitcoin felt down and decided to re-buy same ammount of Bitcoin he had at $60000, at $40000. What's the profit he made in comparison he would kept money in Bitcoin?
+He held onto it as the Bitcoin felt down and decided to re-buy same ammount of Bitcoin he had at $60000, at $40000. 
+What's the profit he made in comparison he would kept money in Bitcoin?
 
 n = $1500
 Pen = $60000
@@ -46,8 +47,11 @@ PnL = 500
 Kawa made $500, while Kawa's Bitcoin ammount is the same.
 In such way Kawa can make profit in both Directions - buying low, selling high. 
 
-What if Kawa never had any Bitcoin and heared abut it only at $60000 when every friend talked about it and Kawa thought that when even back smiths re-tweed about trading, the market my be on it's peak and wanted to try luck in SHORTing it. 
-That means that Kawa borrows Bitcoin worth of $1000 and he SELLs it. When Bitcoin drops to $40000 price, he BUYs it and returns it. The difference will be his profit in $.
+What if Kawa never had any Bitcoin and heared about it only at $60000 when every friend talked about it, 
+and Kawa thought that when even back smiths re-tweed about trading, the market my be on it's peak and wanted to try
+luck in SHORTing it. 
+That means that Kawa borrows Bitcoin worth of $1000 and he SELLs it. When Bitcoin drops to $40000 price, he BUYs it and returns it. 
+The difference will be his profit in $.
 
 n = $1000
 Pen = $60000
@@ -59,7 +63,8 @@ PnL = 1000-(0.6666*1000)
 PnL = 1000-666.66
 PnL = 333.33
 
-Kawa made $333.33 profit on Borrowing and selling 1000 $Btc (1000USD worth of BTC) @60000$ and buying and returning - CLOSING POSITION - @40000$.
+Kawa made $333.33 profit on Borrowing and selling 1000 $Btc (1000USD worth of BTC) @60000$ and buying and returning - 
+CLOSING POSITION - at 40000$.
 
 
 
