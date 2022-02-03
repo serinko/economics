@@ -51,6 +51,7 @@ or use the formula:
 1500-(1500*0.6)=600 1500+600=2100=1050
 1500-900=600/2
 300
+
 600+1500=2100
 1500-(1500*0.5)=750/2
 375
@@ -74,30 +75,5 @@ in COPE/USD. To get it in cash, we will use an ATM. ATM takes 3.5% fee and allow
 transaction. Each transaction charges 10E fixwd fee on top of the 3.5% fee. If our objective is to have 10000E in cash 
 in the end of this investment, what is the price to exit the COPE/USD market. Giving the anticipation that the ratio 
 of USD/EUR stays the same as it's today.
-
-How many USD is 10000 EURO
-Todays rate is 1Euro = $1.13
-For 10000Euro we need 10000*1.13=$11300
-Our target will be $11300 in cash
-On top of that there is 3.5% fee, lets count that one in
-Do not make the mistake to add 3.5% on what we have now. We need to find a number which 11330 is if we sub 3.5% off 
-and that is an imprtant difference
-100%-3.5%=96.5%
-so if in the end we want to have $11300 we aim at a number which if we multiply 0.965 times we have 11300
-11300/0.965=11709.84
-with 3.5% fee we will aim for $11710
-Dont forget that evry withdrawal can equal or be smaller than 900E.
-As we speak USD 900*1.13=1017 $1017 is a maximum transaction size
-How many withdrawals we will have to do: 11710÷1017=11.51
-That is 12 withdrawals to get our sum
-Each wthdrawal cost extra 10E extra 10*1.13=$11.3
-12 withdrawals times $11.3 = $135.6
-11710+135.6=11845.6
-We have to make sure that even with adding $11.3 on each f 12 transactions we still fit the limit
-11845.6÷12=987.13 That is smaller than the limit of 1017
-That means that 10000Euro converted to dollars, counting 3.5% will be taken away, and the ammount will take
-12 withdrawals, each costing 10E equivalent of $11.3, our final number is $11845.
-With this number in aim, we can apply same formula like in 1) excercise $11845/2809.06=4.216713064
-We set a stop profit limit on $COPE price at $4.217 if we take it down to 3 decimals
 
 
