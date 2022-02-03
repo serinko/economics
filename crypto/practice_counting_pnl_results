@@ -1,0 +1,103 @@
+COUNTING PROFIT and LOSS - RESULTS
+
+
+1 - Have a look on the potfolio, there is a coin called $COPE. For the practice - imagie that we have decided 
+that we will hold this coin until it has a value of $10000. What is the exit price on the market, 
+we are looking for to exit on (or set a take profit SELL order)?
+
+$COPE ammount = 2809.06
+target $10000
+Price of $COPE to close position = 10000/2809.06
+Exit price of $COPE for this position is $3.56
+
+
+
+2 - There are news that Turkey is invading Greece and however the EU and NATO do not really react as "expected", 
+they announce a lot of economical sanctions. We concluded $TRYB will fall because of that. 
+Entering - opening a SHORT position at a price of $0.0715 - for $1500. We decided following targets: 
+that we will close one half of our position when $TRYB drops 40% from our entry and the rest of the position, 
+when $TRYB drops 50% from our entry.
+a) What will be the Take profit points (the exit price marks)?
+b) What will be our total profit (on top of the 1500$ investment)?
+c) If the price action will go against us, we agreed to absorb losses of $300, 
+to not to expose ourselves to bigger risk. Whats the $TRYB price then to set a stop loss - exit strategy?
+
+SHORT
+Entry price (Pex) = $0.0715
+$invested (n) = $1500
+1/2 position closed 40% drop from the entry
+1/2 entire position 50% drop from the entry
+
+a) exit price marks:
+a1) 0.0715*0.6=0.0429
+a2) 0.0715*0.5=0.03575
+
+First take profit target is $TRYB=$0.0429 and second $TRYB=$0.03575
+
+b) With $1500 investment, our profit will be
+1500/2=750
+(750*1.4)+(750*1.5)-1500
+= 2175-1500
+= 675
+
+or, we know that it is half of the position at 40% and half at 50%. (40+50)/2=45%
+(1500*1.45)-1500=
+= 2175-1500
+= 675
+
+Our profit will be $675
+
+or use the formula:
+1500-(1500*0.6)=600 1500+600=2100=1050
+1500-900=600/2
+300
+600+1500=2100
+1500-(1500*0.5)=750/2
+375
+
+300+375=675
+
+c) 300$ risk exposure
+300/1500=0.2
+0.2=20%
+Our risk exposure is 20% of the investment
+Do not forget we go SHORT, so against us means the price goes up.
+Entry price (Pex) = $0.0715
+0.0715*1.2=0.0858
+We setting a stop loss price on the mark of $TRYB=$0.0858
+
+
+
+3 - Actually I made a mistake in the excercise number 1. It is slightly a bit more complicated. We are looking 
+to withraw 10000 in total, just like in the excercise number 1, but in EURO, in CASH. The market though is only 
+in COPE/USD. To get it in cash, we will use an ATM. ATM takes 3.5% fee and allows only 900E withdrawls per 
+transaction. Each transaction charges 10E fixwd fee on top of the 3.5% fee. If our objective is to have 10000E in cash 
+in the end of this investment, what is the price to exit the COPE/USD market. Giving the anticipation that the ratio 
+of USD/EUR stays the same as it's today.
+
+How many USD is 10000 EURO
+Todays rate is 1Euro = $1.13
+For 10000Euro we need 10000*1.13=$11300
+Our target will be $11300 in cash
+On top of that there is 3.5% fee, lets count that one in
+Do not make the mistake to add 3.5% on what we have now. We need to find a number which 11330 is if we sub 3.5% off 
+and that is an imprtant difference
+100%-3.5%=96.5%
+so if in the end we want to have $11300 we aim at a number which if we multiply 0.965 times we have 11300
+11300/0.965=11709.84
+with 3.5% fee we will aim for $11710
+Dont forget that evry withdrawal can equal or be smaller than 900E.
+As we speak USD 900*1.13=1017 $1017 is a maximum transaction size
+How many withdrawals we will have to do: 11710÷1017=11.51
+That is 12 withdrawals to get our sum
+Each wthdrawal cost extra 10E extra 10*1.13=$11.3
+12 withdrawals times $11.3 = $135.6
+11710+135.6=11845.6
+We have to make sure that even with adding $11.3 on each f 12 transactions we still fit the limit
+11845.6÷12=987.13 That is smaller than the limit of 1017
+That means that 10000Euro converted to dollars, counting 3.5% will be taken away, and the ammount will take
+12 withdrawals, each costing 10E equivalent of $11.3, our final number is $11845.
+With this number in aim, we can apply same formula like in 1) excercise $11845/2809.06=4.216713064
+We set a stop profit limit on $COPE price at $4.217 if we take it down to 3 decimals
+
+
