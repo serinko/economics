@@ -76,7 +76,7 @@ transaction. Each transaction charges 10E fixwd fee on top of the 3.5% fee. If o
 in the end of this investment, what is the price to exit the COPE/USD market. Giving the anticipation that the ratio 
 of USD/EUR stays the same as it's today.
 
-
+a)
 How many USD is 10000 EURO
 Todays rate is 1Euro = $1.13
 For 10000Euro we need 10000*1.13=$11300
@@ -103,7 +103,7 @@ With this number in aim, we can apply same formula like in 1) excercise $11845/2
 We set a stop profit limit on $COPE price at $4.217 if we take it down to 3 decimals
 
 
-COUNTED IN EURO AND THAN TRANSFORMED INTO USD IN THE END ( slightly different EURO:USD rate)
+b) COUNTED IN EURO AND THAN TRANSFORMED INTO USD IN THE END ( slightly different EURO:USD rate)
 
 900*x=10000
 10000/900=11.11
