@@ -103,5 +103,28 @@ With this number in aim, we can apply same formula like in 1) excercise $11845/2
 We set a stop profit limit on $COPE price at $4.217 if we take it down to 3 decimals
 
 
+COUNTED IN EURO AND THAN TRANSFORMED INTO USD IN THE END ( slightly different EURO:USD rate)
+
+900*x=10000
+10000/900=11.11
+12*10=120
+Fixed fee is 120 EURO
+
+100-3.5=96.5
+10000 EUR=96.5% → be careful with assuming that everything together in total is 100%
+10000/0.965=10362,694300518 or
+(10000/96.5=103,627
+103.627*100=10362.7)
+
+The 3.5% fee is 362,694 EURO
+10362,694+120=10482,694
+
+We have 2809
+1.13056 USD = 1 EUR
+10482,694*1.13056=11851,3145 (amount of USD needed)
+2809*x= 11851,3145
+11851,3145/2809=4,219051096 (the value needed for each COPE/USD for 10482,694 EUR)
+4,2191
+
 
 
