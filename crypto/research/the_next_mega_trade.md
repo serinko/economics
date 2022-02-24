@@ -1,6 +1,7 @@
 # The next mega-trade
 ## notes from article
-
+##### Original article:
+https://panteracapital.com/blockchain-letter/the-next-mega-trade/
 
 * Fed's manipulated US Treasury and bond market. They printed a lot of money and are now trying 
 to counter inflation by raising the interest on bonds. 
@@ -13,3 +14,5 @@ to counter inflation by raising the interest on bonds.
 crypto to be able to pay tax
 * Most people buy when there is an upgoing trend. A lot of investors buy BTC when it's trading well 
 above trend. Now is the time to buy. Only 13% of the past 11 years has the market been this cheap or cheaper. 
+
+
