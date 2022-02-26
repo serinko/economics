@@ -30,13 +30,14 @@ NEAR smart contracts
 https://medium.com/amber-group/an-introduction-to-near-a19ff7e7cd78
 
 * NEAR protocol is open-source, proof-of-stake and horizontal scaling
-<i>"adding more hardware to the blockchain network, and having each node in the network perform only a 
+
+"adding more hardware to the blockchain network, and having each node in the network perform only a 
 subset of the overall work. This includes blockchains that have a multi-chain design, such as Cosmos, in 
 which different applications create their own blockchain. It also includes sharding, which separates the 
 blockchain into multiple smaller ones, all sharing the same block structure and consensus. This is how 
-L1s like Ethereum, NEAR, and Harmony plan to improve scalability going forward."</i>
-* and invested in Arbitrum
+L1s like Ethereum, NEAR, and Harmony plan to improve scalability going forward."
 
+* and invested in Arbitrum:
 https://www.exodus.com/blog/how-is-arbitrum-different-from-polygon/
 
 #### Why web3 matters
