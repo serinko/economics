@@ -1,9 +1,9 @@
 # EQUITY CALCULATION
 
-n - Initial investment
-Pen - Entry price
-Pex - Exit price
-PnL - Profit & Loss
+**n** - *Initial investment*
+**Pen** - *Entry price*
+**Pex** - *Exit price*
+**PnL** - *Profit & Loss*
 
 
 BUY/LONG
