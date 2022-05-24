@@ -115,6 +115,6 @@ Alike curve. Only possibility is to abandon it and start a new one - one year de
 - Platforms built on top (like Convex on Curve) can take over control with central points of failure.
    
     - only projects which let token holders vote directly with their voting power (instead of delegating all their power to a multisig) will be approved.
-        
+    ping    
     
 
