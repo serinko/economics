@@ -8,7 +8,7 @@
 
 ## BUY/LONG
 
-**Formula to calculate profit**
+**Formula to calculate profit:**
 
 ```
 PnL = (Pex/Pen*n) - n
