@@ -6,28 +6,35 @@
 **PnL** - *Profit & Loss*
 
 
-BUY/LONG
-Formula to calculate profit
-PnL = (Pex/Pen*n)-n
+## BUY/LONG
+
+**Formula to calculate profit**
+
+```
+PnL = (Pex/Pen*n) - n
+```
 
 Example. Kawa bought Bitcoin for $1000 at a cost of $40000 and sold on $60000. 
 What is Kawa's profit?
 
-n = $1000
-Pen = $40000
-Pex = $60000
-PnL = ?
+*n* = $1000
+*Pen* = $40000
+*Pex* = $60000
+*PnL* = ?
 
-PnL = (60000/40000*1000)-1000
-PnL = (60000/40000*1000)-1000
-PnL = (1.5 * 1000)-1000
-PnL = 1500-1000
+```
+PnL = (60000/40000*1000) - 1000
+PnL = (60000/40000*1000) - 1000
+PnL = (1.5 * 1000) - 1000
+PnL = 1500 - 1000
 PnL = 500
+```
 Kawa made $500 proft on this investment/trade.
 
 
 
-SELL/SHORT
+## SELL/SHORT
+
 Formula to calculate profit is reversed
 PnL = n-(Pex/Pen*n)
  
