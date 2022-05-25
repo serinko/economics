@@ -86,10 +86,15 @@ That's why we aren't so interested about the price movement in units (ie dollars
 That % is what we focus on, to count the profit or loss (PnL). From 40k to 60k we need to go 50% up. Therefore if those are our Pen and Pex, 
 we made 50% profit, while the fall from 60k to 40k is only 33.3%, therefore we made 33.3% profit (or loss).
 
-That means that if an asset you bough falls in price of 33.3%, you need 50% grow to get back to 0,-. However SELLing/SHORTing seems to give
+That means that if an asset you bought falls in price of 33.3%, you need 50% grow to get back to 0,-. However SELLing/SHORTing seems to give
 smaller gains on the price movement, the benefit of SELLing high lies in the fact that instead of waiting to get back to 0 if not sold, in
-this case, if rebought on 40k, by the time it's back on 60k, you are not back on zero but 33% and 50% in profit. that is a big difference. 
+this case, if re-bought on 40k, by the time it's back on 60k, you are not back on zero but 33% and 50% in profit. That is a big difference. 
 So often selling is a way to get in cheaper, later.
+
+## Disclaimers
+
+Be aware that there is no an easy way to predict prices and to borrow assets in order to sell it and re-buy it later to pay the loan in profit, as well as buy any risky asset with the hope of getting up - 
+the marjet may go against you and the mathematic of PnL applies reverse and you counting losses!!!
 
 Disclaimer: Kawa is not so interested in speculating and trading in generall. Only market Kawa follows is to short $TRYB, while he never 
 wants to put his hand on that coin. How to do that - to SHORT an asset, you do not want to handle - will be explained in another document.
