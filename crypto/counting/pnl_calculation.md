@@ -1,32 +1,47 @@
+---
+title: Profit and Loss Calculation
+author: serinko
+header-includes: |
+    \usepackage{amsmath}
+Abstract: Basic formulas to understand % price movement 
+---
+# Introduction
+For anyone moving in finance/crypto, is completelly vital to understand and calculate % movement of assets, and their reflection in the value of the holdings - PnL.
+
+
 # PROFIT and LOSS CALCULATION
 
-**n** - *Initial investment*
-**Pen** - *Entry price*
-**Pex** - *Exit price*
-**PnL** - *Profit & Loss*
+* **n** - *Initial investment*
+* **Pen** - *Entry price*
+* **Pex** - *Exit price*
+* **PnL** - *Profit & Loss*
 
 
 ## BUY/LONG
 
 **Formula to calculate profit:**
 
-```
+```latex
+$$
 PnL = (Pex/Pen*n) - n
+$$
 ```
 
 Example. Kawa bought Bitcoin for $1000 at a cost of $40000 and sold on $60000. 
 What is Kawa's profit?
 
-*n* = $1000
-*Pen* = $40000
-*Pex* = $60000
-*PnL* = ?
+* *n* = $1000
+* *Pen* = $40000
+* *Pex* = $60000
+* *PnL* = ?
 
-```
+```latex
+$$
 PnL = (60000/40000*1000) - 1000
 PnL = (1.5 * 1000) - 1000
 PnL = 1500 - 1000
 PnL = 500
+$$
 ```
 Kawa made $500 proft on this investment/trade.
 
@@ -34,24 +49,28 @@ Kawa made $500 proft on this investment/trade.
 ## SELL / SHORT
 
 **Formula to calculate profit is reversed**
-```
+```latex
+$$
 PnL = n-(Pex/Pen*n)
+$$
 ```
 Example. Kawa sold his Bitcoin in the profit at Bitcoin price $60000 and had $1500 in cash. 
 He held onto it as the Bitcoin felt down and decided to re-buy same ammount of Bitcoin he had at $60000, at $40000. 
 What's the profit he made in comparison he would kept money in Bitcoin?
 
-*n* = $1500
-*Pen* = $60000
-*Pex* = $4000
-*PnL* = ?
+* *n* = $1500
+* *Pen* = $60000
+* *Pex* = $4000
+* *PnL* = ?
 
-```
+```latex
+$$
 PnL = 1500-(40000/60000*1500)
 PnL = 1500-(40000/60000*1500)
 PnL = 1500-(0.6666*1500)
 PnL = 1500-1000
 PnL = 500
+$$
 ```
 Kawa made $500, while Kawa's Bitcoin ammount is the same.
 Such way Kawa of making profit on volatily is often refered to as - buying low, selling high.
@@ -63,15 +82,15 @@ and Kawa thought that when even black smiths re-tweed about trading, the market 
 That means that Kawa borrows Bitcoin worth of $1000 and immediately *SELLs* it. When Bitcoin drops to $40000 price, Kawa *BUY* Bitcoin, and returns the loan. 
 The difference will be his profit in $.
 
-n = $1000
-Pen = $60000
-Pex = $4000
-PnL = ?
-PnL = 1000-(40000/60000*1000)
-PnL = 1000-(40000/60000*1000)
-PnL = 1000-(0.6666*1000)
-PnL = 1000-666.66
-PnL = 333.33
+* n = $1000
+* Pen = $60000
+* Pex = $4000
+* PnL = ?
+* PnL = 1000-(40000/60000*1000)
+* PnL = 1000-(40000/60000*1000)
+* PnL = 1000-(0.6666*1000)
+* PnL = 1000-666.66
+* PnL = 333.33
 
 Kawa made $333.33 profit on Borrowing and selling 1000 $Btc (1000USD worth of BTC) @60000$ and buying and returning - 
 CLOSING POSITION - at 40000$.
