@@ -1,3 +1,17 @@
+---
+title: Practice Calculation of Pofit and Loss
+author: serinko
+header-includes: |
+    \usepackage{amsmath}
+Abstract: Excercises to practice counting PnL.
+---
+# Introduction
+
+For anyone moving in finance/crypto, is completely vital to understand and calculate % movement of assets, and their reflection in the value of the holdings - PnL.
+
+
+
+
 # COUNTING PROFIT and LOSS
 
 As we understand how the formula of PnL works, let's to put it in practice. I recommend to use a calculator
@@ -46,6 +60,5 @@ in the end of this investment, what is the price to exit the COPE/USD market. Gi
 of USD/EUR stays the same as it's today, the limit per tx and added fees...
 * Account for all the fees and exchange ratio and re-asses the exit take profit limit $TOKEN/USD price.
 
-
 Note:
-Solutions coming soon!
+Solutions coming soon.
